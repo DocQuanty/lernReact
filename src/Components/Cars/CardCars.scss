@@ -1,0 +1,31 @@
+.Cars {
+  border: 1px solid;
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14);
+  border-radius: 10px;
+  transition: background-color 0.3s ease 0s;
+  .input:active {
+    outline: none;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    border: none;
+  }
+  .input {
+    outline: none;
+  }
+
+  input.green {
+    border: 2px solid green;
+  }
+  input.red {
+    border: 2px solid red;
+  }
+}
+
+/* input.blue {
+  border: 2px solid blue;
+} */
