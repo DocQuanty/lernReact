@@ -3,10 +3,13 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import ErrorBoundary from './ErrorBoundary/ErrorBoundary'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ErrorBoundary key={1}>
+    <App title={'this is p title'}/>
+    </ErrorBoundary>
   </React.StrictMode>,
   document.getElementById("root")
 );
