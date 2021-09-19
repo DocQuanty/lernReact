@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lernReact/static/css/main.5cd693ae.chunk.css",
+    "main.css": "/lernReact/static/css/main.df0abf90.chunk.css",
     "main.js": "/lernReact/static/js/main.f8b9f8c8.chunk.js",
     "main.js.map": "/lernReact/static/js/main.f8b9f8c8.chunk.js.map",
     "runtime-main.js": "/lernReact/static/js/runtime-main.300197c6.js",
@@ -10,13 +10,13 @@
     "static/js/3.1a8e99d8.chunk.js": "/lernReact/static/js/3.1a8e99d8.chunk.js",
     "static/js/3.1a8e99d8.chunk.js.map": "/lernReact/static/js/3.1a8e99d8.chunk.js.map",
     "index.html": "/lernReact/index.html",
-    "static/css/main.5cd693ae.chunk.css.map": "/lernReact/static/css/main.5cd693ae.chunk.css.map",
+    "static/css/main.df0abf90.chunk.css.map": "/lernReact/static/css/main.df0abf90.chunk.css.map",
     "static/js/2.d666aa17.chunk.js.LICENSE.txt": "/lernReact/static/js/2.d666aa17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.300197c6.js",
     "static/js/2.d666aa17.chunk.js",
-    "static/css/main.5cd693ae.chunk.css",
+    "static/css/main.df0abf90.chunk.css",
     "static/js/main.f8b9f8c8.chunk.js"
   ]
 }
